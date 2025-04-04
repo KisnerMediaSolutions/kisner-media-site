@@ -1,3 +1,5 @@
+'use client'
+
 // src/components/WhatWeDo.tsx
 
 import Image from "next/image";

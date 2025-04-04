@@ -6,7 +6,7 @@ export default function HeroSection() {
   return (
     <section className="relative w-full h-[480px] sm:h-[560px] md:h-[640px] lg:h-[720px] xl:h-[800px] 2xl:h-[860px] overflow-hidden">
       <Image
-        src="/images/hero-desktop.jpg"
+        // src="/images/background.avif"
         alt="Kisner Media Hero"
         layout="fill"
         objectFit="cover"

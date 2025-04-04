@@ -1,3 +1,5 @@
+'use client'
+
 // src/components/TrustedBySection.tsx
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
